@@ -1,0 +1,8 @@
+body{
+  font-family: "Proba", Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+  font-family: Proba;
+  src: url(design/ProbaPro-SemiBold.otf);
+}
